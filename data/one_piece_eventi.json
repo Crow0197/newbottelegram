@@ -1,0 +1,77 @@
+[
+    {
+        "name": "Inizio dell'Era della Pirateria",
+        "description": "Gol D. Roger annuncia l'esistenza del tesoro One Piece.",
+        "date": "1500-01-01"
+    },
+    {
+        "name": "Esecuzione di Gol D. Roger",
+        "description": "L'esecuzione di Roger d\u00e0 inizio all'era dei pirati.",
+        "date": "1500-01-01"
+    },
+    {
+        "name": "Fondazione della Marina",
+        "description": "Creazione della Marina per mantenere l'ordine mondiale.",
+        "date": "1022-01-01"
+    },
+    {
+        "name": "Fondazione del Governo Mondiale",
+        "description": "Unione dei 20 regni per formare il Governo Mondiale.",
+        "date": "1022-01-01"
+    },
+    {
+        "name": "Distruzione di Ohara",
+        "description": "La Buster Call distrugge l'isola di Ohara.",
+        "date": "1494-01-01"
+    },
+    {
+        "name": "Battaglia di Marineford",
+        "description": "Scontro tra i Pirati di Barbabianca e la Marina.",
+        "date": "1522-01-01"
+    },
+    {
+        "name": "Ascesa dei Quattro Imperatori",
+        "description": "I pirati pi\u00f9 forti vengono riconosciuti come Yonkou.",
+        "date": "1496-01-01"
+    },
+    {
+        "name": "Raid su Enies Lobby",
+        "description": "Cappello di Paglia dichiara guerra al Governo Mondiale.",
+        "date": "1522-01-01"
+    },
+    {
+        "name": "Scoperta della Red Line",
+        "description": "I pirati raggiungono la met\u00e0 del Grand Line.",
+        "date": "1520-01-01"
+    },
+    {
+        "name": "Scontro con Crocodile",
+        "description": "La sconfitta di Crocodile porta alla caduta di Baroque Works.",
+        "date": "1520-01-01"
+    },
+    {
+        "name": "Scontro con Donquixote Doflamingo",
+        "description": "L'alleanza distrugge il regime di Dressrosa.",
+        "date": "1523-01-01"
+    },
+    {
+        "name": "Fondazione della ciurma di Cappello di Paglia",
+        "description": "Luffy inizia il suo viaggio come pirata.",
+        "date": "1519-01-01"
+    },
+    {
+        "name": "Distruzione di Water 7",
+        "description": "Il tentativo di eliminare Water 7 fallisce grazie ai Cappello di Paglia.",
+        "date": "1522-01-01"
+    },
+    {
+        "name": "Incontro con Shanks",
+        "description": "Shanks dona a Luffy il cappello di paglia.",
+        "date": "1510-01-01"
+    },
+    {
+        "name": "Caduta di Kaido",
+        "description": "I Cappello di Paglia sconfiggono Kaido e liberano Wano.",
+        "date": "1524-01-01"
+    }
+]

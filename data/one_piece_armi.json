@@ -1,0 +1,446 @@
+[
+    {
+        "name": "Wado Ichimonji",
+        "type": "spada",
+        "rank": "\u014c Wazamono (Grande Grado)",
+        "rarity": 85
+    },
+    {
+        "name": "Shusui",
+        "type": "spada",
+        "rank": "\u014c Wazamono (Grande Grado)",
+        "rarity": 85
+    },
+    {
+        "name": "Yoru",
+        "type": "spada",
+        "rank": "Saij\u014d \u014c Wazamono (Grado Supremo)",
+        "rarity": 100
+    },
+    {
+        "name": "Enma",
+        "type": "spada",
+        "rank": "\u014c Wazamono (Grande Grado)",
+        "rarity": 90
+    },
+    {
+        "name": "Sandai Kitetsu",
+        "type": "spada",
+        "rank": "Wazamono (Grado Normale)",
+        "rarity": 70
+    },
+    {
+        "name": "Kabuto",
+        "type": "arma da distanza",
+        "rank": "N/A",
+        "rarity": 50
+    },
+    {
+        "name": "Gryphon",
+        "type": "spada",
+        "rank": "N/A",
+        "rarity": 75
+    },
+    {
+        "name": "Murakumogiri",
+        "type": "alabarda",
+        "rank": "Saij\u014d \u014c Wazamono (Grado Supremo)",
+        "rarity": 95
+    },
+    {
+        "name": "Ame no Habakiri",
+        "type": "spada",
+        "rank": "\u014c Wazamono (Grande Grado)",
+        "rarity": 90
+    },
+    {
+        "name": "Shigure",
+        "type": "spada",
+        "rank": "Wazamono (Grado Normale)",
+        "rarity": 60
+    },
+    {
+        "name": "Kikoku",
+        "type": "spada",
+        "rank": "N/A",
+        "rarity": 80
+    },
+    {
+        "name": "Kashu",
+        "type": "spada",
+        "rank": "Ryo Wazamono (Grado Eccellente)",
+        "rarity": 75
+    },
+    {
+        "name": "Yubashiri",
+        "type": "spada",
+        "rank": "Ryo Wazamono (Grado Eccellente)",
+        "rarity": 70
+    },
+    {
+        "name": "Shodai Kitetsu",
+        "type": "spada",
+        "rank": "Saij\u014d \u014c Wazamono (Grado Supremo)",
+        "rarity": 100
+    },
+    {
+        "name": "Nidai Kitetsu",
+        "type": "spada",
+        "rank": "\u014c Wazamono (Grande Grado)",
+        "rarity": 85
+    },
+    {
+        "name": "Hassai Kai",
+        "type": "alabarda",
+        "rank": "N/A",
+        "rarity": 75
+    },
+    {
+        "name": "Pretzel",
+        "type": "spada",
+        "rank": "N/A",
+        "rarity": 70
+    },
+    {
+        "name": "Durandal",
+        "type": "spada",
+        "rank": "N/A",
+        "rarity": 80
+    },
+    {
+        "name": "Sandalphon",
+        "type": "spada",
+        "rank": "N/A",
+        "rarity": 70
+    },
+    {
+        "name": "Ace",
+        "type": "spada",
+        "rank": "N/A",
+        "rarity": 75
+    },
+    {
+        "name": "Funkfreed",
+        "type": "spada/elefante",
+        "rank": "N/A",
+        "rarity": 70
+    },
+    {
+        "name": "White Blow",
+        "type": "arma speciale",
+        "rank": "N/A",
+        "rarity": 70
+    },
+    {
+        "name": "Smiley",
+        "type": "arma chimica",
+        "rank": "N/A",
+        "rarity": 60
+    },
+    {
+        "name": "Thunder Lance",
+        "type": "arma da distanza",
+        "rank": "N/A",
+        "rarity": 60
+    },
+    {
+        "name": "Spada Generica 1",
+        "type": "spada",
+        "rank": "Generico",
+        "rarity": 66
+    },
+    {
+        "name": "Spada Generica 2",
+        "type": "spada",
+        "rank": "Generico",
+        "rarity": 46
+    },
+    {
+        "name": "Spada Generica 3",
+        "type": "spada",
+        "rank": "Generico",
+        "rarity": 40
+    },
+    {
+        "name": "Spada Generica 4",
+        "type": "spada",
+        "rank": "Generico",
+        "rarity": 34
+    },
+    {
+        "name": "Spada Generica 5",
+        "type": "spada",
+        "rank": "Generico",
+        "rarity": 37
+    },
+    {
+        "name": "Spada Generica 6",
+        "type": "spada",
+        "rank": "Generico",
+        "rarity": 64
+    },
+    {
+        "name": "Spada Generica 7",
+        "type": "spada",
+        "rank": "Generico",
+        "rarity": 70
+    },
+    {
+        "name": "Spada Generica 8",
+        "type": "spada",
+        "rank": "Generico",
+        "rarity": 44
+    },
+    {
+        "name": "Spada Generica 9",
+        "type": "spada",
+        "rank": "Generico",
+        "rarity": 54
+    },
+    {
+        "name": "Spada Generica 10",
+        "type": "spada",
+        "rank": "Generico",
+        "rarity": 33
+    },
+    {
+        "name": "Arco Generico 1",
+        "type": "arco",
+        "rank": "Generico",
+        "rarity": 34
+    },
+    {
+        "name": "Arco Generico 2",
+        "type": "arco",
+        "rank": "Generico",
+        "rarity": 64
+    },
+    {
+        "name": "Arco Generico 3",
+        "type": "arco",
+        "rank": "Generico",
+        "rarity": 53
+    },
+    {
+        "name": "Arco Generico 4",
+        "type": "arco",
+        "rank": "Generico",
+        "rarity": 36
+    },
+    {
+        "name": "Arco Generico 5",
+        "type": "arco",
+        "rank": "Generico",
+        "rarity": 44
+    },
+    {
+        "name": "Alabarda Generica 1",
+        "type": "alabarda",
+        "rank": "Generico",
+        "rarity": 67
+    },
+    {
+        "name": "Alabarda Generica 2",
+        "type": "alabarda",
+        "rank": "Generico",
+        "rarity": 57
+    },
+    {
+        "name": "Alabarda Generica 3",
+        "type": "alabarda",
+        "rank": "Generico",
+        "rarity": 64
+    },
+    {
+        "name": "Alabarda Generica 4",
+        "type": "alabarda",
+        "rank": "Generico",
+        "rarity": 55
+    },
+    {
+        "name": "Alabarda Generica 5",
+        "type": "alabarda",
+        "rank": "Generico",
+        "rarity": 43
+    },
+    {
+        "name": "Arma Semplice",
+        "type": "vario",
+        "rank": "Comune",
+        "rarity": 10
+    },
+    {
+        "name": "Arma Semplice",
+        "type": "vario",
+        "rank": "Comune",
+        "rarity": 10
+    },
+    {
+        "name": "Arma Semplice",
+        "type": "vario",
+        "rank": "Comune",
+        "rarity": 10
+    },
+    {
+        "name": "Arma Semplice",
+        "type": "vario",
+        "rank": "Comune",
+        "rarity": 10
+    },
+    {
+        "name": "Arma Semplice",
+        "type": "vario",
+        "rank": "Comune",
+        "rarity": 10
+    },
+    {
+        "name": "Arma Semplice",
+        "type": "vario",
+        "rank": "Comune",
+        "rarity": 10
+    },
+    {
+        "name": "Arma Semplice",
+        "type": "vario",
+        "rank": "Comune",
+        "rarity": 10
+    },
+    {
+        "name": "Arma Semplice",
+        "type": "vario",
+        "rank": "Comune",
+        "rarity": 10
+    },
+    {
+        "name": "Arma Semplice",
+        "type": "vario",
+        "rank": "Comune",
+        "rarity": 10
+    },
+    {
+        "name": "Arma Semplice",
+        "type": "vario",
+        "rank": "Comune",
+        "rarity": 10
+    },
+    {
+        "name": "Arma Semplice",
+        "type": "vario",
+        "rank": "Comune",
+        "rarity": 10
+    },
+    {
+        "name": "Arma Semplice",
+        "type": "vario",
+        "rank": "Comune",
+        "rarity": 10
+    },
+    {
+        "name": "Arma Semplice",
+        "type": "vario",
+        "rank": "Comune",
+        "rarity": 10
+    },
+    {
+        "name": "Arma Semplice",
+        "type": "vario",
+        "rank": "Comune",
+        "rarity": 10
+    },
+    {
+        "name": "Arma Semplice",
+        "type": "vario",
+        "rank": "Comune",
+        "rarity": 10
+    },
+    {
+        "name": "Arma Semplice",
+        "type": "vario",
+        "rank": "Comune",
+        "rarity": 10
+    },
+    {
+        "name": "Arma Semplice",
+        "type": "vario",
+        "rank": "Comune",
+        "rarity": 10
+    },
+    {
+        "name": "Arma Semplice",
+        "type": "vario",
+        "rank": "Comune",
+        "rarity": 10
+    },
+    {
+        "name": "Arma Semplice",
+        "type": "vario",
+        "rank": "Comune",
+        "rarity": 10
+    },
+    {
+        "name": "Arma Semplice",
+        "type": "vario",
+        "rank": "Comune",
+        "rarity": 10
+    },
+    {
+        "name": "Arma Semplice",
+        "type": "vario",
+        "rank": "Comune",
+        "rarity": 10
+    },
+    {
+        "name": "Arma Semplice",
+        "type": "vario",
+        "rank": "Comune",
+        "rarity": 10
+    },
+    {
+        "name": "Arma Semplice",
+        "type": "vario",
+        "rank": "Comune",
+        "rarity": 10
+    },
+    {
+        "name": "Arma Semplice",
+        "type": "vario",
+        "rank": "Comune",
+        "rarity": 10
+    },
+    {
+        "name": "Arma Semplice",
+        "type": "vario",
+        "rank": "Comune",
+        "rarity": 10
+    },
+    {
+        "name": "Arma Semplice",
+        "type": "vario",
+        "rank": "Comune",
+        "rarity": 10
+    },
+    {
+        "name": "Arma Semplice",
+        "type": "vario",
+        "rank": "Comune",
+        "rarity": 10
+    },
+    {
+        "name": "Arma Semplice",
+        "type": "vario",
+        "rank": "Comune",
+        "rarity": 10
+    },
+    {
+        "name": "Arma Semplice",
+        "type": "vario",
+        "rank": "Comune",
+        "rarity": 10
+    },
+    {
+        "name": "Arma Semplice",
+        "type": "vario",
+        "rank": "Comune",
+        "rarity": 10
+    }
+]

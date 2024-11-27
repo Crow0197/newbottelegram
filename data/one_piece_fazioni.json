@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Marina",
+        "description": "L'organizzazione che mantiene l'ordine nei mari."
+    },
+    {
+        "name": "Rivoluzionari",
+        "description": "Un'organizzazione che si oppone al Governo Mondiale."
+    },
+    {
+        "name": "Governo Mondiale",
+        "description": "Un'alleanza di 20 regni che governa il mondo."
+    },
+    {
+        "name": "Cipolla Polizia",
+        "description": "Unit\u00e0 di \u00e9lite del Governo Mondiale."
+    },
+    {
+        "name": "Shichibukai",
+        "description": "Un gruppo di pirati che collabora con il Governo Mondiale."
+    },
+    {
+        "name": "Yonkou",
+        "description": "I quattro imperatori che dominano il Nuovo Mondo."
+    },
+    {
+        "name": "Germa 66",
+        "description": "Un esercito scientifico governato dalla famiglia Vinsmoke."
+    },
+    {
+        "name": "Navy HQ",
+        "description": "La sede centrale della Marina."
+    },
+    {
+        "name": "Cipher Pol",
+        "description": "Un'unit\u00e0 speciale del Governo Mondiale dedicata alla sorveglianza e alle operazioni speciali."
+    },
+    {
+        "name": "Armata Rivoluzionaria",
+        "description": "La forza armata dei Rivoluzionari."
+    }
+]

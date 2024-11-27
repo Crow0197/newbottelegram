@@ -1,0 +1,176 @@
+[
+    {
+        "name": "Gomu Gomu no Mi",
+        "type": "Paramecia",
+        "description": "Permette al corpo di comportarsi come gomma.",
+        "rarity": 100
+    },
+    {
+        "name": "Bari Bari no Mi",
+        "type": "Paramecia",
+        "description": "Permette di creare barriere indistruttibili.",
+        "rarity": 70
+    },
+    {
+        "name": "Ope Ope no Mi",
+        "type": "Paramecia",
+        "description": "Permette di creare una 'stanza' in cui manipolare oggetti e persone.",
+        "rarity": 95
+    },
+    {
+        "name": "Soru Soru no Mi",
+        "type": "Paramecia",
+        "description": "Permette di manipolare le anime delle persone e degli oggetti.",
+        "rarity": 95
+    },
+    {
+        "name": "Hobi Hobi no Mi",
+        "type": "Paramecia",
+        "description": "Permette di trasformare le persone in giocattoli.",
+        "rarity": 80
+    },
+    {
+        "name": "Gura Gura no Mi",
+        "type": "Paramecia",
+        "description": "Permette di creare onde sismiche, devastando l'ambiente circostante.",
+        "rarity": 90
+    },
+    {
+        "name": "Ito Ito no Mi",
+        "type": "Paramecia",
+        "description": "Permette di creare e manipolare fili sottilissimi.",
+        "rarity": 75
+    },
+    {
+        "name": "Mera Mera no Mi",
+        "type": "Logia",
+        "description": "Permette di controllare e trasformarsi in fuoco.",
+        "rarity": 80
+    },
+    {
+        "name": "Hie Hie no Mi",
+        "type": "Logia",
+        "description": "Permette di controllare e trasformarsi in ghiaccio.",
+        "rarity": 85
+    },
+    {
+        "name": "Pika Pika no Mi",
+        "type": "Logia",
+        "description": "Permette di controllare e trasformarsi in luce.",
+        "rarity": 95
+    },
+    {
+        "name": "Goro Goro no Mi",
+        "type": "Logia",
+        "description": "Permette di controllare e trasformarsi in elettricit\u00e0.",
+        "rarity": 95
+    },
+    {
+        "name": "Moku Moku no Mi",
+        "type": "Logia",
+        "description": "Permette di controllare e trasformarsi in fumo.",
+        "rarity": 60
+    },
+    {
+        "name": "Tori Tori no Mi, modello Fenice",
+        "type": "Zoan Mitologica",
+        "description": "Permette di trasformarsi in una fenice.",
+        "rarity": 95
+    },
+    {
+        "name": "Ushi Ushi no Mi, modello Bisonte",
+        "type": "Zoan",
+        "description": "Permette di trasformarsi in un bisonte.",
+        "rarity": 50
+    },
+    {
+        "name": "Hebi Hebi no Mi, modello Anaconda",
+        "type": "Zoan",
+        "description": "Permette di trasformarsi in un'anaconda.",
+        "rarity": 50
+    },
+    {
+        "name": "Ryu Ryu no Mi, modello Drago Orientale",
+        "type": "Zoan Mitologica",
+        "description": "Permette di trasformarsi in un drago orientale.",
+        "rarity": 95
+    },
+    {
+        "name": "Tori Tori no Mi, modello Albatros",
+        "type": "Zoan",
+        "description": "Permette di trasformarsi in un albatros.",
+        "rarity": 40
+    },
+    {
+        "name": "Inu Inu no Mi, modello Lupo",
+        "type": "Zoan",
+        "description": "Permette di trasformarsi in un lupo.",
+        "rarity": 50
+    },
+    {
+        "name": "Suna Suna no Mi",
+        "type": "Logia",
+        "description": "Permette di controllare e trasformarsi in sabbia.",
+        "rarity": 80
+    },
+    {
+        "name": "Yami Yami no Mi",
+        "type": "Logia",
+        "description": "Permette di controllare e trasformarsi in oscurit\u00e0.",
+        "rarity": 95
+    },
+    {
+        "name": "Kage Kage no Mi",
+        "type": "Paramecia",
+        "description": "Permette di manipolare le ombre.",
+        "rarity": 75
+    },
+    {
+        "name": "Horo Horo no Mi",
+        "type": "Paramecia",
+        "description": "Permette di creare fantasmi che influenzano il morale.",
+        "rarity": 70
+    },
+    {
+        "name": "Gasu Gasu no Mi",
+        "type": "Logia",
+        "description": "Permette di trasformarsi e controllare il gas.",
+        "rarity": 75
+    },
+    {
+        "name": "Magu Magu no Mi",
+        "type": "Logia",
+        "description": "Permette di controllare e trasformarsi in magma.",
+        "rarity": 90
+    },
+    {
+        "name": "Tori Tori no Mi, modello Falco",
+        "type": "Zoan",
+        "description": "Permette di trasformarsi in un falco.",
+        "rarity": 70
+    },
+    {
+        "name": "Neko Neko no Mi, modello Leopardo",
+        "type": "Zoan",
+        "description": "Permette di trasformarsi in un leopardo.",
+        "rarity": 75
+    },
+    {
+        "name": "Baku Baku no Mi",
+        "type": "Paramecia",
+        "description": "Permette di mangiare qualsiasi cosa e trasformarlo nel proprio corpo.",
+        "rarity": 50
+    },
+    {
+        "name": "Toki Toki no Mi",
+        "type": "Paramecia",
+        "description": "Permette di manipolare il tempo.",
+        "rarity": 95
+    },
+    {
+        "name": "Tama Tama no Mi",
+        "type": "Paramecia",
+        "description": "Permette di produrre sfere dalla pelle.",
+        "rarity": 50
+    }
+]

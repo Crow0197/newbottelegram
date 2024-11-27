@@ -1,0 +1,176 @@
+[
+    {
+        "name": "Monkey D. Luffy",
+        "faction": "Ciurma di Cappello di Paglia",
+        "bounty": 3000000000,
+        "role": "Capitano"
+    },
+    {
+        "name": "Roronoa Zoro",
+        "faction": "Ciurma di Cappello di Paglia",
+        "bounty": 1200000000,
+        "role": "Spadaccino"
+    },
+    {
+        "name": "Nami",
+        "faction": "Ciurma di Cappello di Paglia",
+        "bounty": 366000000,
+        "role": "Navigatrice"
+    },
+    {
+        "name": "Sanji",
+        "faction": "Ciurma di Cappello di Paglia",
+        "bounty": 1032000000,
+        "role": "Cuoco"
+    },
+    {
+        "name": "Usopp",
+        "faction": "Ciurma di Cappello di Paglia",
+        "bounty": 500000000,
+        "role": "Cecchino"
+    },
+    {
+        "name": "Tony Tony Chopper",
+        "faction": "Ciurma di Cappello di Paglia",
+        "bounty": 1000,
+        "role": "Medico"
+    },
+    {
+        "name": "Nico Robin",
+        "faction": "Ciurma di Cappello di Paglia",
+        "bounty": 930000000,
+        "role": "Archeologa"
+    },
+    {
+        "name": "Franky",
+        "faction": "Ciurma di Cappello di Paglia",
+        "bounty": 394000000,
+        "role": "Carpentiere"
+    },
+    {
+        "name": "Brook",
+        "faction": "Ciurma di Cappello di Paglia",
+        "bounty": 383000000,
+        "role": "Musicista"
+    },
+    {
+        "name": "Jinbe",
+        "faction": "Ciurma di Cappello di Paglia",
+        "bounty": 1100000000,
+        "role": "Timoniere"
+    },
+    {
+        "name": "Shanks",
+        "faction": "Ciurma di Shanks",
+        "bounty": 4048900000,
+        "role": "Imperatore"
+    },
+    {
+        "name": "Marshall D. Teach (Barbanera)",
+        "faction": "Ciurma di Barbanera",
+        "bounty": 3960000000,
+        "role": "Imperatore"
+    },
+    {
+        "name": "Kaido",
+        "faction": "Ciurma di Kaido",
+        "bounty": 4611100000,
+        "role": "Imperatore"
+    },
+    {
+        "name": "Charlotte Linlin (Big Mom)",
+        "faction": "Ciurma di Big Mom",
+        "bounty": 4388800000,
+        "role": "Imperatore"
+    },
+    {
+        "name": "Edward Newgate (Barbabianca)",
+        "faction": "Ciurma di Barbabianca",
+        "bounty": 5046500000,
+        "role": "Imperatore (defunto)"
+    },
+    {
+        "name": "Trafalgar D. Water Law",
+        "faction": "Ciurma di Trafalgar",
+        "bounty": 3000000000,
+        "role": "Capitano"
+    },
+    {
+        "name": "Eustass Kid",
+        "faction": "Ciurma di Eustass",
+        "bounty": 3000000000,
+        "role": "Capitano"
+    },
+    {
+        "name": "Donquixote Doflamingo",
+        "faction": "Ciurma di Donquixote",
+        "bounty": 340000000,
+        "role": "Capitano"
+    },
+    {
+        "name": "Buggy",
+        "faction": "Ciurma di Buggy",
+        "bounty": 3150000000,
+        "role": "Imperatore"
+    },
+    {
+        "name": "Dracule Mihawk",
+        "faction": "Nessuna",
+        "bounty": 3590000000,
+        "role": "Ex Shichibukai"
+    },
+    {
+        "name": "Boa Hancock",
+        "faction": "Nessuna",
+        "bounty": 1659000000,
+        "role": "Ex Shichibukai"
+    },
+    {
+        "name": "Crocodile",
+        "faction": "Nessuna",
+        "bounty": 1965000000,
+        "role": "Ex Shichibukai"
+    },
+    {
+        "name": "Kizaru (Borsalino)",
+        "faction": "Marina",
+        "bounty": null,
+        "role": "Ammiraglio"
+    },
+    {
+        "name": "Akainu (Sakazuki)",
+        "faction": "Marina",
+        "bounty": null,
+        "role": "Ammiraglio della flotta"
+    },
+    {
+        "name": "Aokiji (Kuzan)",
+        "faction": "Nessuna",
+        "bounty": null,
+        "role": "Ex Ammiraglio"
+    },
+    {
+        "name": "Sabo",
+        "faction": "Rivoluzionari",
+        "bounty": 602000000,
+        "role": "Secondo in comando"
+    },
+    {
+        "name": "Monkey D. Dragon",
+        "faction": "Rivoluzionari",
+        "bounty": null,
+        "role": "Comandante dei Rivoluzionari"
+    },
+    {
+        "name": "Smoker",
+        "faction": "Marina",
+        "bounty": null,
+        "role": "Vice Ammiraglio"
+    },
+    {
+        "name": "Hina",
+        "faction": "Marina",
+        "bounty": null,
+        "role": "Commodoro"
+    }
+]
